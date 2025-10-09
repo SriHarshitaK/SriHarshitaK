@@ -85,7 +85,7 @@ Adaptive signal control using vehicle detection from multiple video feeds.
 
 
 ## ⚡ Competitive Programming  
-- 🧮 [LeetCode](https://leetcode.com/u/ksriharshita04/) — Solving 200+ DSA problems in Python  
+- 🧮 [LeetCode](https://leetcode.com/u/ksriharshita04/) — Solving 100+ DSA problems in Python  
 - Preparing for SDE placements focusing on **DP, Greedy, and Graph algorithms**
 
 ---
