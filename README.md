@@ -50,7 +50,7 @@ I love turning ideas into scalable web apps, exploring AI solutions, and constan
 
 ## 🧩 Projects  
 
-### 🍴 [Food Delivery Web Application](https://github.com/SriHarshitaK/Food-Delivery-App)
+### 🍴 [Food Delivery Web Application](https://github.com/SriHarshitaK/food-del)
 `React.js | Node.js | Express | MongoDB Atlas`  
 User authentication, cart management, checkout, and admin dashboard for real-time order control.
 
